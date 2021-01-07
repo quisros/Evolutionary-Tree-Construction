@@ -16,7 +16,7 @@ If required, refer to the given sample distance matrices (<code>test-1.txt</code
 
 * <code>git clone https://github.com/quisros/evolutionary-tree-construction.git</code>
 
-* <code>cd evolutionary-tree-construction</code> <code>cd upgma</code> > <code>go build</code>
+* <code>cd evolutionary-tree-construction</code> > <code>cd upgma</code> > <code>go build</code>
 
 * For simple text-output: <code>./upgma [text-file-name.txt]</code>
 
